@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## 关于我
 
-您好，我是 PeyTon，一名热情的程序员。我对Code有浓厚的兴趣。
+您好，我是 Peyton，一名热情的程序员。我对Code有浓厚的兴趣。
 
 ### 我的技术栈
 
